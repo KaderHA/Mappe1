@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ord_liste">
+        <item>BAGGE</item>
+        <item>BAUG</item>
+        <item>BEGA</item>
+        <item>BEGGE</item>
+        <item>BEHAG</item>
+        <item>BEHAGE</item>
+        <item>GUBB</item>
+        <item>GUBBE</item>
+        <item>HAGE</item>
+        <item>HAUG</item>
+        <item>HAUGA</item>
+        <item>HAUGE</item>
+        <item>HUGE</item>
+        <item>HUGG</item>
+        <item>HUGGE</item>
+        <item>JAGA</item>
+        <item>JAGE</item>
+        <item>JAGGU</item>
+        <item>JEGA</item>
+        <item>JUGE</item>
+    </string-array>
+</resources>

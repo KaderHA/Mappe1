@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/drawable/ic_baseline_help_center_24.xml" value="0.2985" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/drawable/ic_baseline_help_outline_24.xml" value="0.238" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2985" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/drawable/knapp_hint.xml" value="0.2985" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/drawable/knapp_sentrum.xml" value="0.238" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/drawable/layout_bg.xml" value="0.238" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/layout-land/aktivitet_hoved.xml" value="0.33" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/layout/aktivitet_hoved.xml" value="0.36666666666666664" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/layout/funnet_ordliste.xml" value="0.365625" />
+        <entry key="..\:/Dev/AppUtvikling/app/src/main/res/layout/tilbake_melding.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
