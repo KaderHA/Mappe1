@@ -1,16 +1,16 @@
 <resources>
-    <string name="app_name">Ordstjernen</string>
-    <string name="bokstav_ov">B</string>
-    <string name="bokstav_oh">H</string>
-    <string name="bokstav_v">U</string>
-    <string name="bokstav_s">G</string>
-    <string name="bokstav_h">E</string>
-    <string name="bokstav_nv">J</string>
-    <string name="bokstav_nh">A</string>
-    <string name="slett">Slett</string>
-    <string name="sjekk">Sjekk</string>
-    <string name="innlegg_felt">Finn ordene</string>
-    <string name="tekst_felt">Hint felt</string>
+    <string name="app_name">Wordstar</string>
+    <string name="bokstav_ov">E</string>
+    <string name="bokstav_oh">T</string>
+    <string name="bokstav_v">I</string>
+    <string name="bokstav_s">A</string>
+    <string name="bokstav_h">O</string>
+    <string name="bokstav_nv">N</string>
+    <string name="bokstav_nh">S</string>
+    <string name="slett">Delete</string>
+    <string name="sjekk">Check</string>
+    <string name="innlegg_felt">Find the words</string>
+    <string name="tekst_felt"></string>
     <string name="hint">Hint</string>
-    <string name="antall">antall</string>
+    <string name="antall">total</string>
 </resources>

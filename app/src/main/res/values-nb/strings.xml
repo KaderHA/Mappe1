@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ordstjernen</string>
+    <string name="bokstav_ov">B</string>
+    <string name="bokstav_oh">H</string>
+    <string name="bokstav_v">U</string>
+    <string name="bokstav_s">G</string>
+    <string name="bokstav_h">E</string>
+    <string name="bokstav_nv">J</string>
+    <string name="bokstav_nh">A</string>
+    <string name="slett">Slett</string>
+    <string name="sjekk">Sjekk</string>
+    <string name="innlegg_felt">Finn ordene</string>
+    <string name="tekst_felt"></string>
+    <string name="hint">Hint</string>
+    <string name="antall">antall</string>
+</resources>

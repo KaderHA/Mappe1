@@ -114,12 +114,23 @@ public class HovedAktivitet extends AppCompatActivity {
     public void visHint(View v) {
         TextView t = (TextView) findViewById(R.id.tekst_felt);
         t.setVisibility(View.VISIBLE);
-        StringBuilder hint = new StringBuilder(ord_listen[new Random().nextInt(ord_listen.length)]);
-        hint.setCharAt(1, '*');
-        hint.setCharAt(2, '*');
+
+        StringBuilder hint = new StringBuilder(finnHint());
+        if (!hint.toString().equals("")) {
+            hint.setCharAt(1, '*');
+            hint.setCharAt(2, '*');
+        }
         t.setText("Hint: " + hint.toString());
     }
 
+    private String finnHint() {
+        if (brukt_ord.toArray().length == ord_listen.length) return "";
+        String s = "";
+        while (true) {
+            s = ord_listen[new Random().nextInt(ord_listen.length)];
+            if (!brukt_ord.contains(s)) return s;
+        }
+    }
     public void visTilbakeMelding(String tekst) {
         LayoutInflater infalter = (LayoutInflater) getSystemService(LAYOUT_INFLATER_SERVICE);
         View popupView = infalter.inflate(R.layout.tilbake_melding, null);

@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- src: https://www.wordunscrambler.net/unscramble-word-finder.aspx -->
 <resources>
     <string-array name="ord_liste">
-        <item>BAGGE</item>
-        <item>BAUG</item>
-        <item>BEGA</item>
-        <item>BEGGE</item>
-        <item>BEHAG</item>
-        <item>BEHAGE</item>
-        <item>GUBB</item>
-        <item>GUBBE</item>
-        <item>HAGE</item>
-        <item>HAUG</item>
-        <item>HAUGA</item>
-        <item>HAUGE</item>
-        <item>HUGE</item>
-        <item>HUGG</item>
-        <item>HUGGE</item>
-        <item>JAGA</item>
-        <item>JAGE</item>
-        <item>JAGGU</item>
-        <item>JEGA</item>
-        <item>JUGE</item>
+        <item>AEON</item>
+        <item>AINE</item>
+        <item>AINS</item>
+        <item>AITS</item>
+        <item>ANES</item>
+        <item>ANIS</item>
+        <item>ANTE</item>
+        <item>ANTI</item>
+        <item>ANTS</item>
+        <item>EAST</item>
+        <item>EATS</item>
+        <item>SAINT</item>
+        <item>STAIN</item>
+        <item>SANE</item>
+        <item>TAIN</item>
+        <item>NEAT</item>
+        <item>ASTONE</item>
     </string-array>
 </resources>
